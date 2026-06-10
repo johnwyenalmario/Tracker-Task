@@ -1,6 +1,6 @@
 # Tracker Task
 
-# Submission to [Task Tracker] (https://roadmap.sh/projects/task-tracker)
+# Sample Solution [Task Tracker](https://roadmap.sh/projects/task-tracker)
 
 ## Installation
 python task.py install
